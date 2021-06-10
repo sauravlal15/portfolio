@@ -81,14 +81,14 @@ const Header = () => {
               </li>
               <li className="nav__item">
                 <a
-                  href="#services"
+                  href="#qualification"
                   className="nav__link"
                   onClick={handleClickremove}
                 >
                   <div className="nav__icon">
                     <WorkIcon />
                   </div>
-                  Services
+                  Qualifications
                 </a>
               </li>
               <li className="nav__item">

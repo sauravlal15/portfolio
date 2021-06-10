@@ -17,33 +17,16 @@ const About = () => {
           />
           <div className="about__data">
             <p className="about__description">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged.
+              I'm prefinal undergraduate at Jalpaiguri Government Engineering
+              College, pursuing Bachelor of Technology in Electronics And
+              Communications Engineering. I'm technology enthusiasts and have my
+              hands dirty on various technologies, aiming at building some
+              technological and viable solutions to improve the quality of human
+              life. I'm keen to stay updated with the latest technological trends and
+              brush up my skills accordingly. Apart from this, I love to
+              participate in various competetions/ hackathons, my aim is to help
+              people and encourage them towards tech.
             </p>
-            <div className="about__info">
-              <div>
-                <span className="about__info-title">08+</span>
-                <span className="about__info-name">
-                  Years <br /> experiences
-                </span>
-              </div>
-              <div>
-                <span className="about__info-title">20+</span>
-                <span className="about__info-name">
-                  Completed <br /> projects
-                </span>
-              </div>
-              <div>
-                <span className="about__info-title">05+</span>
-                <span className="about__info-name">
-                  Companies <br /> worked
-                </span>
-              </div>
-            </div>
             <div className="about__buttons">
               <a
                 download=""

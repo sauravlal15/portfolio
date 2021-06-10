@@ -6,7 +6,7 @@ import TwitterIcon from "@material-ui/icons/Twitter";
 const Footer = () => {
   return (
     <div>
-      <footer className="footer">
+      <footer className="footer section">
         <div className="footer__bg">
           <div className="footer__container container grid">
             <div>
@@ -27,19 +27,35 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="#contact" className="footer__link">
+                <a
+                  href="mailto:sauravkumarlal7060@gmail.com?subject=Hey Saurav"
+                  target="_blank"
+                  className="footer__link"
+                >
                   ContactMe
                 </a>
               </li>
             </ul>
             <div className="footer__socials">
-              <a href="" className="footer__social" target="_blank">
+              <a
+                href="https://www.facebook.com/sauravkumar.lal.50/"
+                className="footer__social"
+                target="_blank"
+              >
                 <FacebookIcon />
               </a>
-              <a href="" className="footer__social" target="_blank">
+              <a
+                href="https://github.com/saurav-skl"
+                className="footer__social"
+                target="_blank"
+              >
                 <GitHubIcon />
               </a>
-              <a href="" className="footer__social" target="_blank">
+              <a
+                href="https://twitter.com/SauravLal9"
+                className="footer__social"
+                target="_blank"
+              >
                 <TwitterIcon />
               </a>
             </div>
