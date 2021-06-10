@@ -1,6 +1,4 @@
 import React from "react";
-import CodeIcon from "@material-ui/icons/Code";
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
 const Skills = () => {
   return (

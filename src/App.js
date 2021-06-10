@@ -1,5 +1,4 @@
 import "./App.css";
-import { MuiThemeProvider, createMuiTheme } from "@material-ui/core";
 import Header from "./components/header/Header";
 import Dashboard from "./components/dashboard/Dashboard";
 import About from "./components/about/About";
