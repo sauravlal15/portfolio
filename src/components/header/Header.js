@@ -10,9 +10,6 @@ import AppsIcon from "@material-ui/icons/Apps";
 const Header = () => {
   const [isActive, setisActive] = useState(false);
 
-  const onCrossbtnClick = () => {
-    console.log("clicked");
-  };
 
   const onHandleClick = () => {
     setisActive(true);
@@ -32,7 +29,7 @@ const Header = () => {
 
   return (
     <div>
-      <div className="header" id="header">
+      <div className="header header-mobile" id="header">
         <nav className="nav container">
           <a href="#" className="nav__logo">
             Saurav
