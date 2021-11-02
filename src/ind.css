@@ -184,6 +184,7 @@ img {
     border-top-right-radius: 20px;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
+    height:4rem;
   }
   .nav__menu {
     position: fixed;
@@ -217,7 +218,7 @@ img {
 }
 
 .nav__link:hover {
-  color: ;
+  /* color: ; */
 }
 
 .nav__icon {
