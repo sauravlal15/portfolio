@@ -30,7 +30,7 @@ const About = () => {
             </p>
             <div className="about__buttons">
               <a
-                href="https://drive.google.com/file/d/1LR9Lcc3_OMT08ECvLenubk2TD5pmfYFf/view?usp=sharing"
+                href="#"
                 className="button button--flex"
               >
                 Open Resume <GetAppIcon className="button__icon" />
